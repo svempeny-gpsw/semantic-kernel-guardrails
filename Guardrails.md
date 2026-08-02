@@ -5,7 +5,6 @@ Apply guardrails to prevent the output of harmful content
 
 Microsoft Foundry includes default guardrails to help ensure that potentially harmful prompts and completions are identified and removed from interactions with the service. You can also define custom guardrails to enforce the responsible AI principles appropriate for your scenario. Content filtering is one element of a comprehensive responsible AI approach when working with generative models.
 
-Estimated time: **25 minutes**
 
 > Note: Some Foundry features used in this lab may be preview or actively developed. You may see warnings or unexpected behavior.
 
@@ -102,6 +101,3 @@ Notes:
 - Evaluate the model behavior with more varied and adversarial prompts.
 - Log and review filter blocks to tune thresholds and reduce false positives.
 - Combine guardrails with system-level controls, human review workflows, and monitoring for a comprehensive safety program.
-
----
-_Prepared as Week5 preparation material — ready to upload to GitHub._
